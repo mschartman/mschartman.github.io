@@ -33,6 +33,11 @@ html, body {
   text-align: center;
 }
 
+.logo-title:link {text-decoration:none; color: #555;}
+.logo-title:visited {text-decoration:none; color: #555;}
+.logo-title:hover {text-decoration:none; color: #555;}
+.logo-title:active {text-decoration:none; color: #555;}
+
 .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
   color: #fff;
   background-color: #555;
